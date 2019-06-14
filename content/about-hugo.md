@@ -12,6 +12,7 @@ It makes use of a variety of open source projects including:
 * https://github.com/muesli/smartcrop
 * https://github.com/spf13/cobra
 * https://github.com/spf13/viper
+* http://agciyiz.com
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
