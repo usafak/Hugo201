@@ -1,7 +1,7 @@
 baseURL = "https://usk.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Safa Kisikcilar"
+title = "U Safa Kısıkçılar"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
